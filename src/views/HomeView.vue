@@ -7,8 +7,8 @@
           <v-col cols="5">
             <div style="position: relative" class="mt-16">
               <h1 class="text-grey">Hello,</h1>
-              <h1 class="text-white">I'M Lara Elizabeth</h1>
-              <span class="text-grey">Web Designer & Developer</span><br />
+              <h1 class="text-white">I'm Akshar</h1>
+              <span class="text-grey">Technologist and Engineering Manager</span><br />
 
               <v-btn tile dark class="text-yellow mt-8" variant="outlined">
                 Contact me
